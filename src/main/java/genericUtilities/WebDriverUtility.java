@@ -70,5 +70,5 @@ public class WebDriverUtility {
 	}
 	
 	//    "./"+"\\Screenshots\\ProjectName"+System.currentTimeMillis()
-	System.out.println("Hello World");
+	
 }
